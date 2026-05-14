@@ -123,9 +123,9 @@ The dataset is downloaded automatically on first run via `src/helpers.py`. Alter
 
 Open the notebooks in order:
 
-1. `cnn_from_scratch.ipynb` — trains and evaluates the custom CNN
-2. `transfer_learning.ipynb` — trains and evaluates the transfer learning model
-3. `app.ipynb` — runs the end-to-end application demo
+1. `cnn_from_scratch.ipynb` — trains and evaluates the custom CNN.
+2. `transfer_learning.ipynb` — trains and evaluates the transfer learning model.
+3. `app.ipynb` — runs the end-to-end application demo.
 
 ### Running Tests
 
